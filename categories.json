@@ -1,0 +1,14 @@
+{
+  "agent-skills": "Agent skills & plugins",
+  "mcp": "MCP servers & connectors",
+  "agent-frameworks": "Agent frameworks & SDKs",
+  "models": "Models & inference",
+  "dev-tools": "Developer tools & CLIs",
+  "media-engines": "Media, video & animation engines",
+  "ui-design": "UI, design & frontend libraries",
+  "data-search": "Data, RAG & search",
+  "prompting": "Prompting & guides",
+  "learning": "Articles, papers & courses",
+  "awesome-lists": "Curated lists",
+  "products": "Apps & products"
+}

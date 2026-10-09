@@ -1,0 +1,225 @@
+{
+  "source": {
+    "platform": "x",
+    "author": "@N01ennn",
+    "url": null,
+    "text": "20 GitHub repos for agent-driven motion design / video generation with Opus 5.5: skills, render engines (HyperFrames, Remotion, GSAP), and taste/principles. Stack: Opus writes the code, a skill sets timing and camera, an engine renders the MP4."
+  },
+  "tags": [
+    "motion-design",
+    "video",
+    "claude-skills"
+  ],
+  "items": [
+    {
+      "url": "https://github.com/whaleyxbt/claude-motion",
+      "title": "claude-motion",
+      "description": "Motion skill with taste; checks its own frames, writes sound in code. Built for Opus 5.5.",
+      "tags": [
+        "skill",
+        "audio"
+      ]
+    },
+    {
+      "url": "https://github.com/howseen-ai/claude-motion-design",
+      "title": "claude-motion-design",
+      "description": "Motion design via HTML, Playwright and ffmpeg — no Remotion.",
+      "tags": [
+        "skill",
+        "playwright",
+        "ffmpeg",
+        "html"
+      ]
+    },
+    {
+      "url": "https://github.com/charlie947/motion-graphics-skills",
+      "title": "motion-graphics-skills",
+      "description": "13 skills for making launch videos.",
+      "tags": [
+        "skill",
+        "launch-video"
+      ]
+    },
+    {
+      "url": "https://github.com/haidrrrry/claude-remotion-skill",
+      "title": "claude-remotion-skill",
+      "description": "A Remotion editor from one prompt: captions, B-roll, sound.",
+      "tags": [
+        "skill",
+        "remotion",
+        "captions",
+        "b-roll"
+      ]
+    },
+    {
+      "url": "https://github.com/t3knobox/klik-anim-skill-creation",
+      "title": "klik-anim-skill-creation",
+      "description": "Skill encoding the laws of animation and camera movement.",
+      "tags": [
+        "skill",
+        "animation-principles",
+        "camera"
+      ]
+    },
+    {
+      "url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill",
+      "title": "hyperframes-motion-reel-skill",
+      "description": "Showreel cut to the beat at 120 BPM, built on HyperFrames.",
+      "tags": [
+        "skill",
+        "hyperframes",
+        "music-sync"
+      ]
+    },
+    {
+      "url": "https://github.com/AbubakrChan/product-launch-motion",
+      "title": "product-launch-motion",
+      "description": "Full product launch film: voice-over, camera, color grade.",
+      "tags": [
+        "skill",
+        "launch-video",
+        "voice-over"
+      ]
+    },
+    {
+      "url": "https://github.com/cth9191/animate",
+      "title": "animate",
+      "description": "Short clip in a single canvas file, storyboarded as it goes.",
+      "tags": [
+        "skill",
+        "canvas",
+        "storyboard"
+      ]
+    },
+    {
+      "url": "https://github.com/iart-ai/motion-design-skills",
+      "title": "motion-design-skills",
+      "description": "Skills for timing, color, typography, logos; Remotion-based.",
+      "tags": [
+        "skill",
+        "remotion",
+        "typography"
+      ]
+    },
+    {
+      "url": "https://github.com/nateherkai/hyperframes-student-kit",
+      "title": "hyperframes-student-kit",
+      "description": "14 skills and 406 motion graphics reference cards for HyperFrames.",
+      "tags": [
+        "skill",
+        "hyperframes",
+        "reference"
+      ]
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "title": "HyperFrames",
+      "description": "Render engine: HTML to MP4. The most commonly installed engine for these skills.",
+      "tags": [
+        "engine",
+        "hyperframes",
+        "html"
+      ],
+      "category": "media-engines"
+    },
+    {
+      "url": "https://github.com/remotion-dev/remotion",
+      "title": "Remotion",
+      "description": "Render engine: programmatic video written in React.",
+      "tags": [
+        "engine",
+        "remotion",
+        "react"
+      ],
+      "category": "media-engines"
+    },
+    {
+      "url": "https://github.com/remotion-dev/skills",
+      "title": "Remotion skills (official)",
+      "description": "Official Remotion agent skills.",
+      "tags": [
+        "skill",
+        "remotion",
+        "official"
+      ]
+    },
+    {
+      "url": "https://github.com/greensock/GSAP",
+      "title": "GSAP",
+      "description": "JavaScript animation timelines; what HyperFrames runs on. Skills: npx skills add greensock/gsap-skills",
+      "tags": [
+        "engine",
+        "gsap",
+        "javascript"
+      ],
+      "category": "media-engines"
+    },
+    {
+      "url": "https://github.com/LottieFiles/motion-design-skill",
+      "title": "motion-design-skill (LottieFiles)",
+      "description": "Engine-agnostic motion principles skill.",
+      "tags": [
+        "skill",
+        "animation-principles",
+        "lottie"
+      ]
+    },
+    {
+      "url": "https://github.com/frankxai/awesome-motion-design-agent-skills",
+      "title": "awesome-motion-design-agent-skills",
+      "description": "Curated map of GSAP, Remotion, Lottie and Rive agent skills.",
+      "tags": [
+        "awesome-list",
+        "gsap",
+        "remotion",
+        "lottie",
+        "rive"
+      ],
+      "category": "awesome-lists"
+    },
+    {
+      "url": "https://github.com/Barty-Bart/motion-graphics",
+      "title": "motion-graphics",
+      "description": "Generates B-roll straight from a transcript.",
+      "tags": [
+        "skill",
+        "b-roll",
+        "transcript"
+      ]
+    },
+    {
+      "url": "https://github.com/199-biotechnologies/motion-dev-animations-skill",
+      "title": "motion-dev-animations-skill",
+      "description": "Web UI animation with Motion.dev (not video).",
+      "tags": [
+        "skill",
+        "motion-dev",
+        "web-animation"
+      ]
+    },
+    {
+      "url": "https://github.com/motiondivision/motion",
+      "title": "Motion (formerly Framer Motion)",
+      "description": "Web animation library for React/JS.",
+      "tags": [
+        "library",
+        "motion-dev",
+        "web-animation",
+        "react"
+      ],
+      "category": "ui-design"
+    },
+    {
+      "url": "https://github.com/airbnb/lottie-web",
+      "title": "lottie-web",
+      "description": "Render Lottie animations on the web — for when you need Lottie, not MP4.",
+      "tags": [
+        "library",
+        "lottie",
+        "web-animation"
+      ],
+      "category": "media-engines"
+    }
+  ],
+  "category": "agent-skills"
+}

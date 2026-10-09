@@ -1,0 +1,5 @@
+# The database is rebuilt from imports/ — see README
+resources.db
+resources.db-*
+__pycache__/
+.DS_Store
